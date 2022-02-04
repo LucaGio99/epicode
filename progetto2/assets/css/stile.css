@@ -1,0 +1,25 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
+.principale {
+    color: white;
+    background-image: url(../css/images/banner.jpg)
+    
+}
+.secondaria {
+    text-align: center;
+}
+.bottoni {
+    text-align: right;
+}
+.quarta {
+    text-align: center;
+    background-color:  #212047;
+    color: white;
+}
+.terziaria {
+    text-align: center;
+}
+.fa fa-comment-o fa-3x{
+    background-color: orange;
+}
